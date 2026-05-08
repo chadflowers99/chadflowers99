@@ -1,60 +1,42 @@
-# Hi, I'm Chad | Diagnostic Architect & Workflow Engineer
+Hi, I’m Chad — Data Engineer & Workflow Architect
 
-I design suppressor-aware pipelines, schema-hygienic validators, and narratable interfaces that transform noisy data into audit-safe, recruiter-ready outputs.
+I build audit‑safe data pipelines, deterministic validation frameworks, and analytical reporting systems that turn noisy, unstructured datasets into decision‑grade intelligence. My work centers on Medallion Architecture (Bronze/Silver/Gold) and high‑fidelity ETL pipelines designed for remote‑first engineering teams.
 
-My focus: clarity-first engineering for remote-first teams, with modular systems that stay explainable under pressure.
+🏗️ What I Build
+Revenue Integrity & Projection Pipelines  
+• Silver‑layer normalization engines for encoding remediation, header standardization, and type coercion
+• “S5” integrity buffers that isolate malformed or high‑risk rows without breaking analytical continuity
+• Project: Revenue Integrity Pipeline
 
----
+Systematic Trading Infrastructure (TradeForge)  
+• State‑driven orchestration runners for ingestion, integrity gating, and FIFO realized P/L recalculation
+• Bronze→Silver workflows with manifest‑based rejection diagnostics for 1:1 lineage tracking
+• Project: TradeForge Foundry
 
-## What I Build
+Modular Validators & Diagnostic Narrators  
+• Schema fingerprinting, tech‑stack filtering, and batch‑health previews
+• Narratable GUIs for session tracking with automated Markdown audit exports
 
-### Suppressor-Aware Job Enrichment Pipelines
-- Deduplication, tech-stack filtering, and signal scoring
-- Markdown narration with SQLite-backed persistence
-- Representative work: Job Enrichment Pipeline
+🧩 Engineering Philosophy
+Integrity by Design  
+Data should never “silently fail.” Every dropped row becomes a diagnostic artifact stored in a dedicated exception buffer.
 
-### Narratable Payroll and Session GUIs
-- Weekly filters and paid/unpaid session breakdowns
-- Markdown exports with suppressor-aware diagnostics
-- Representative work: Payroll and Session GUI
+Clarity Over Cleverness  
+Pipelines should narrate their role. I build modular, schema‑hygienic systems that stay explainable and auditable under pressure.
 
-### Modular Validators and Debug Narrators
-- Filename sanitization and schema fingerprinting
-- Suppressor saturation checks and batch-health previews
+Deterministic Hygiene  
+Normalization and deduplication act as protective controls, ensuring Silver and Gold layers remain statistically pure.
 
----
+📦 Tools I Reach For
+Languages: Python (Advanced), SQL (PostgreSQL, SQLite)
+Libraries: Pandas, Regex, difflib, statistics, collections
+Workflows: Medallion Architecture, Batch Orchestration, GUI‑driven diagnostics
 
-## Engineering Philosophy
+🚀 Current Focus
+• Benchmarking schema drift and batch health in high‑noise financial ecosystems
+• Porting local state‑driven orchestration patterns into cloud‑native warehouse environments
+• Designing “narratable” interfaces that bridge engineering complexity and executive reporting
 
-**Clarity over cleverness**  
-Every script should explain its role. Every suppression should have a reason.
-
-**Modular hygiene**  
-Legacy logic gets refactored into reusable, audit-safe components.
-
-**Narratable rhythm**  
-Session logs, markdown summaries, and GUI flows should tell the story of each batch.
-
----
-
-## Tools I Reach For
-
-Python, SQLite, Markdown, JSON  
-Core modules: `collections`, `statistics`, `difflib`, `re`, `datetime`, `os`  
-Workflow style: GUI narration + CLI batch orchestration
-
----
-
-## Current Focus
-
-- Publishing suppressor-aware pipelines with recruiter-facing documentation
-- Benchmarking batch health and schema drift in noisy ecosystems
-- Designing interfaces that narrate cognitive flow and engineering rhythm
-
----
-
-## Let’s Connect
-
-If you’re hiring for remote-first infrastructure, data workflow, or automation roles, I’d love to connect.
-
-*Every blank summary is a diagnostic checkpoint. Every script is a living system.*
+📬 Let’s Connect
+If you’re hiring for Data Engineering, Infrastructure, or Automation roles focused on data governance and reliability, I’d love to connect.
+Every script is a living system. Every data point has a lineage.
