@@ -1,53 +1,60 @@
-👋 Hi, I'm Chad — Diagnostic Architect & Workflow Engineer
+# Hi, I'm Chad | Diagnostic Architect & Workflow Engineer
 
-I build suppressor‑aware pipelines, schema‑hygienic validators, and narratable interfaces that turn noisy data into audit‑safe, recruiter‑ready outputs. My work centers on clarity‑first engineering for remote‑first teams, with a focus on modular design and cognitive flow.
+I design suppressor-aware pipelines, schema-hygienic validators, and narratable interfaces that transform noisy data into audit-safe, recruiter-ready outputs.
 
----
-
-## 🧠 What I Build
-
-### Suppressor‑Aware Job Enrichment Pipelines
-- Deduplication, tech‑stack filtering, signal scoring  
-- Markdown narration and SQLite persistence  
-- **Project:** Job Enrichment Pipeline
-
-### Narratable GUIs for Payroll & Session Tracking
-- Weekly filters, paid/unpaid breakdowns  
-- Markdown exports and suppressor‑aware diagnostics  
-- **Project:** Payroll & Session GUI
-
-### Modular Validators & Debug Narrators
-- Filename sanitizers and schema fingerprinting  
-- Suppressor saturation checks and batch‑health previews  
+My focus: clarity-first engineering for remote-first teams, with modular systems that stay explainable under pressure.
 
 ---
 
-## 🧩 Engineering Philosophy
+## What I Build
 
-**Clarity over cleverness** — every script narrates its role, every suppression has a reason.  
-**Modular hygiene** — legacy logic becomes reusable components with audit‑safe outputs.  
-**Narratable rhythm** — session loggers, markdown summaries, and GUI flows that tell the story of the batch.
+### Suppressor-Aware Job Enrichment Pipelines
+- Deduplication, tech-stack filtering, and signal scoring
+- Markdown narration with SQLite-backed persistence
+- Representative work: Job Enrichment Pipeline
 
----
+### Narratable Payroll and Session GUIs
+- Weekly filters and paid/unpaid session breakdowns
+- Markdown exports with suppressor-aware diagnostics
+- Representative work: Payroll and Session GUI
 
-## 📦 Tools I Reach For
-
-Python · SQLite · Markdown · JSON  
-`collections`, `statistics`, `difflib`, `re`, `datetime`, `os`  
-GUI layout narration · CLI batch orchestration
-
----
-
-## 🚀 Current Focus
-
-- Publishing suppressor‑aware pipelines with recruiter‑facing READMEs  
-- Benchmarking batch health and schema drift in noisy ecosystems  
-- Designing interfaces that narrate cognitive flow and engineering rhythm  
+### Modular Validators and Debug Narrators
+- Filename sanitization and schema fingerprinting
+- Suppressor saturation checks and batch-health previews
 
 ---
 
-## 📬 Let’s Connect
+## Engineering Philosophy
 
-If you're hiring for remote‑first infra roles or want to collaborate on narratable pipelines, I’d love to talk.
+**Clarity over cleverness**  
+Every script should explain its role. Every suppression should have a reason.
 
-🧠 *Every blank summary is a diagnostic checkpoint. Every script is a living system.*
+**Modular hygiene**  
+Legacy logic gets refactored into reusable, audit-safe components.
+
+**Narratable rhythm**  
+Session logs, markdown summaries, and GUI flows should tell the story of each batch.
+
+---
+
+## Tools I Reach For
+
+Python, SQLite, Markdown, JSON  
+Core modules: `collections`, `statistics`, `difflib`, `re`, `datetime`, `os`  
+Workflow style: GUI narration + CLI batch orchestration
+
+---
+
+## Current Focus
+
+- Publishing suppressor-aware pipelines with recruiter-facing documentation
+- Benchmarking batch health and schema drift in noisy ecosystems
+- Designing interfaces that narrate cognitive flow and engineering rhythm
+
+---
+
+## Let’s Connect
+
+If you’re hiring for remote-first infrastructure, data workflow, or automation roles, I’d love to connect.
+
+*Every blank summary is a diagnostic checkpoint. Every script is a living system.*
