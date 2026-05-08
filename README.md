@@ -26,11 +26,11 @@
     
     ## 🧩 Engineering Philosophy
     
-    **Integrity by Design** Data should never "silently fail." Every dropped row is a diagnostic checkpoint stored in a dedicated exception buffer.
+    **Integrity by Design:** Data should never "silently fail." Every dropped row is a diagnostic checkpoint stored in a dedicated exception buffer.
     
-    **Clarity over Cleverness** Every pipeline should narrate its role. I prioritize modular, schema-hygienic systems that stay explainable and auditable under pressure.
+    **Clarity over Cleverness:** Every pipeline should narrate its role. I prioritize modular, schema-hygienic systems that stay explainable and auditable under pressure.
     
-    **Deterministic Hygiene** Normalization and deduplication are treated as protective controls, ensuring that Silver and Gold layers remain statistically pure.
+    **Deterministic Hygiene:** Normalization and deduplication are treated as protective controls, ensuring that Silver and Gold layers remain statistically pure.
     
     ---
     
