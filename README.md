@@ -59,4 +59,4 @@ Normalization and deduplication are treated as protective controls so Silver and
 
 If you're hiring for **Data Engineering**, **Infrastructure**, or **Automation** roles focused on data governance and reliability, I’d love to connect.
 
-> Every script is a living system. Every data point has a lineage.
+
