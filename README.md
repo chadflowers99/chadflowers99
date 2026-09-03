@@ -1,62 +1,43 @@
 # Hi, I'm Chad Flowers
 
-I design **audit-safe data pipelines**, **deterministic validation frameworks**, and **analytical reporting systems** that turn noisy, unstructured data into decision-grade business intelligence.
+I build practical software for personal finance, investing, and data workflows.
 
-My focus is **Medallion Architecture** (Bronze / Silver / Gold) and high-fidelity ETL pipelines for remote-first engineering teams.
+## Featured Projects
 
----
+### Flex Budget
 
-## 🏗️ What I Build
+A multi-user weekly budgeting application built with Streamlit and Supabase.
 
-### Revenue Integrity & Projection Pipelines
-- Engineered **Silver-layer normalization** systems for automated encoding remediation and header standardization
-- Implemented **S5 integrity buffers** to isolate malformed records while preserving analytical continuity
-- Project: [Revenue Integrity Pipeline](https://github.com/chadflowers99/revenue_integrity_pipeline)
+- Supabase Auth with Google OAuth
+- PostgreSQL with row-level security
+- Private receipt uploads in Supabase Storage
+- Multi-user budget and receipt workflows
 
-### Systematic Trading Infrastructure (TradeForge)
-- Designed **state-driven orchestration** runners for ingestion, integrity gating, and FIFO realized P/L recalculation
-- Built **Bronze-to-Silver** workflows with manifest-based rejection diagnostics for 1:1 data lineage
-- Project: [TradeForge Foundry](https://github.com/chadflowers99/tradeforge_foundry)
+[Open the live app](https://pb-flexbudget.streamlit.app) ·
+[View the source](https://github.com/chadflowers99/flex_budget_app)
 
-### Modular Validators & Diagnostic Narrators
-- Schema fingerprinting
-- Tech-stack filtering
-- Batch-health previews
-- Narratable GUIs for session tracking with automated Markdown audit exports
+### Market Holdings
 
----
+A lot-level portfolio and trade-ledger tracker for monitoring investments and realized profit and loss.
 
-## 🧩 Engineering Philosophy
+- Supabase Auth with Google OAuth
+- PostgreSQL with row-level security
+- Trade history and lot-level portfolio records
+- Validated trade edits that preserve realized P/L integrity
 
-### Integrity by Design
-Data should never silently fail. Every dropped row becomes a diagnostic checkpoint stored in a dedicated exception buffer.
+[Open the live app](https://pb-marketholdings.streamlit.app) ·
+[View the source](https://github.com/chadflowers99/market_holdings_app)
 
-### Clarity over Cleverness
-Every pipeline should narrate its role. I prioritize modular, schema-hygienic systems that remain explainable and auditable under pressure.
+## Portfolio
 
-### Deterministic Hygiene
-Normalization and deduplication are treated as protective controls so Silver and Gold layers remain statistically pure.
+See the full project showcase:
 
----
+[https://chadflowers99.github.io/portfolio_brand_site/](https://chadflowers99.github.io/portfolio_brand_site/)
 
-## 📦 Tools I Reach For
+## Technologies
 
-- **Languages:** Python (Advanced), SQL (PostgreSQL, SQLite)
-- **Libraries:** Pandas, Regex, `difflib`, `statistics`, `collections`
-- **Workflow:** Medallion Architecture, Batch Orchestration, GUI-driven diagnostics
+`Python` · `Streamlit` · `Supabase` · `PostgreSQL` · `Flutter` · `Dart` · `GitHub`
 
----
+## Current Focus
 
-## 🚀 Current Focus
-
-- Benchmarking **schema drift** and batch health in high-noise financial ecosystems
-- Porting local **state-driven orchestration** patterns into cloud-native warehouse environments
-- Designing narratable interfaces that bridge complex engineering and executive reporting
-
----
-
-## 📬 Let’s Connect
-
-If you're hiring for **Data Engineering**, **Infrastructure**, or **Automation** roles focused on data governance and reliability, I’d love to connect.
-
-
+Building reliable, user-focused applications with secure authentication, carefully modeled data, and workflows that preserve data integrity.
